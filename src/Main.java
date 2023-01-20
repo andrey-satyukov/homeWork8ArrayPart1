@@ -55,7 +55,7 @@ public class Main {
                 System.out.printf("%d", myArray[i]);
             }
         }
-        System.out.println("Task 4");
+        System.out.println("Task 4 ");
         for (int i = 0; i < numbers.length; i++) {
             if (numbers[i] % 2 == 1) {
                 numbers[i] +=1;
